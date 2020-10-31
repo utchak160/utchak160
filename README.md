@@ -8,7 +8,7 @@ I am a UX/UI Developer, who is passionate about technologies💻 and obsessed wi
 <br/>
 Besides programming, I enjoy eating food and travelling.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on Angular, NodeJs and React 
