@@ -36,7 +36,7 @@ Besides programming, I enjoy eating food and travelling.
 <img src="https://github-readme-stats.vercel.app/api?username=utchak160&show_icons=true&title_color=fff&icon_color=ffffff&text_color=9f9f9f&bg_color=151515&count_private=true&hide=issues,stars" alt="utchak160" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utchak160&layout=compact&theme=dark&show_all_langs=true&count_private=true" alt="utchak160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utchak160&layout=compact&theme=dark" alt="utchak160" />
 
 <br/>
 You have finally discovered my Github profile!!
