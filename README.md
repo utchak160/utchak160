@@ -1,7 +1,5 @@
 # Utkarsh Chakravarty<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">
-
 <br />
 
 I am a UX/UI Developer, who is passionate about technologies💻 and obsessed with the idea of improving himself and wants to grow and excel in it🚀.
