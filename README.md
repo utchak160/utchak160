@@ -1,4 +1,4 @@
-# Utkarsh Chakravarty<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">
+# Utkarsh Chakravarty<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px">
 
 <br />
 
